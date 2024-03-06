@@ -27,5 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sibananda55&show_icons=true&locale=en" alt="sibananda55" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sibananda55&" alt="sibananda55" /></p>
- <img src= "https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
+<!--  <img src= "https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"> -->
 <P> Go Hustle! 🚀 </p>
